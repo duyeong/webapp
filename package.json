@@ -1,0 +1,24 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duyeong/webapp.git"
+  },
+  "author": "Alice Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duyeong/webapp/issues"
+  },
+  "homepage": "https://github.com/duyeong/webapp#readme",
+  "devDependencies": {
+    "connect": "^3.4.0",
+    "serve-static": "^1.10.0"
+  }
+}
