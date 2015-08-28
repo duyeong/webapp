@@ -1,0 +1,48 @@
+#main {
+    background-color:#c4c4c4;
+    padding:1%;
+    width:100%;
+    height:500px;
+
+}
+
+#main .con {
+    border:1px solid black;
+    padding:1%;
+    margin:1%;
+    width:27%;
+    height:350px;
+    color:black;
+    background-color:white;
+    display:inline-table;
+
+}
+p span {
+    color:orange;
+
+}
+p:hover span.under {
+    display:none
+}
+
+p:hover span.ans {
+    display:inline;
+    text-decoration:underline;
+
+}
+P:hover span.ans:hover span.def {
+    display:block;
+    color:red;
+    border:1px solid #c4c4c4;
+    padding:2px;
+    position:absolute;
+    background-color: #fff;
+}
+
+span.def {
+    display:none;
+}
+
+span.ans {
+    display:none;
+}
