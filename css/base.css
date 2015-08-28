@@ -2,17 +2,47 @@ body {
     margin: 0;
     padding: 0;
 }
+h1, h2, h3, h4 {
+    margin: 0 0 10px 0;
+}
 #main {
-    background-color:#c4c4c4;
+    background-color:#F5F5F5;
     width:96%;
     padding: 2%;
 }
-
-#con1, #con2, #con3 {
+#main .container {
     border:1px solid black;
     height:400px;
     width:28%;
     margin:1%;
     padding:1%;
+    /*float:left;*/
+    display:inline-table;
+    background-color:#fff;
+    box-shadow: 1px 1px 1px;
+    position: relative;
+}
+p span {
+    color:orange;
+}
+p:hover span.underline {
+    display:none;
+
+}
+p span.answer {
+    display:none;
+}
+p:hover span.answer {
     display:inline-block;
+    text-decoration:underline;
+}
+span.def {
+    display:none;
+}
+p:hover span.answer:hover span.def {
+    display:block;
+    padding: 15px;
+    border: 1px solid #c4c4c4;
+    position:absolute;
+    background-color: #fff;
 }
