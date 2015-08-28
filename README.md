@@ -12,3 +12,5 @@ Launching Node Server
 1. From the command prompt or terminal, go to the location where you have 'server.js'
 2. Type 'node server.js' to launch the server on node.
 3. From the web browser, go to http://localhost:8080/ to see the page launched.
+
+Thanks
