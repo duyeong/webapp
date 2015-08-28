@@ -1,7 +1,7 @@
 Deploying updated files to Github repository
 
 1. Go to the local directory where you stored your files. e.g. /apps/webapp/
-2. Type 'git status' to check for any committed or modified files.
+2. Type 'git pull' to get latest changes, and type 'git status' to check for any committed or modified files.
 3. Type 'git add FILE_NAME' to add files you need to commit, or type 'git add -A' to add all modified files from the current directory.
 4. Type 'git commit -m 'COMMENT GOES HERE' to commit files you added.
 5. Type 'git push' to deploy committed files to Github repository.
