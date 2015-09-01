@@ -1,0 +1,5 @@
+full path=url start with http://domain name/..
+absolute path= path start from root level. ex)http://...... or /test/....
+relative path=url path relative from current location. ex) ./path/ or path/path
+
+Root level starts from right under domain name. ex)www.becared.org/rootlevel contents goes here
