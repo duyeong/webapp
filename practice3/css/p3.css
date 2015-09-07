@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,700);
+
+body {
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
+.menu a {
+    text-decoration: none;
+    color: #fff;
+}
+.menu ul {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    border: 1px solid #fff;
+}
+.menu ul::after {
+    clear:left;
+}
+.menu > ul > li {
+    float:left;
+    position: relative;
+}
+.menu > ul > li:last-child {
+    border-right: 1px solid #fff;
+}
+.menu > ul > li + li {
+    border-left: 1px solid #fff;
+}
+.menu ul li {
+    list-style-type: none;
+    Background-color: #c4c4c4;
+}
+.menu ul li a{
+    padding: 10px;
+    min-width: 70px;
+    text-align: center;
+    white-space: nowrap;
+    display: block;
+}
+.menu ul li:hover ul{
+    display:block;
+}
+.menu ul li:hover {
+    background-color:orange;
+}
+.menu ul li ul {
+    display: none;
+    position: absolute;
+}

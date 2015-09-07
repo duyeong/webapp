@@ -1,0 +1,89 @@
+@media (min-width: 768px) {
+    .con1 .con2 .con3 .con4 {
+        border:1px solid white;
+        margin:1%;
+        float:left;
+    }
+    .con1 {
+        color:orangered;
+        width:46%;
+        height:10%
+    }
+    .con2 {
+        color:greenyellow;
+        width:96%;
+        height:40%
+    }
+    .con3 {
+        color:blue;
+        width:29%;
+        height:20%;
+    }
+    .con4 {
+        color:lightgray;
+        width:21%;
+        height:15%;
+    }
+}
+
+@media (max-width: 768px) and (min-width: 321px) {
+    .con1 .con2 .con3 .con4 {
+        border:1px solid white;
+        margin:1%;
+        float:left;
+    }
+    .con1 {
+        color:orangered;
+        width:96%;
+        height:5%
+    }
+    .con2 {
+        color:greenyellow;
+        width:96%;
+        height:25%
+    }
+    .con3 {
+        color:blue;
+        width:96%;
+        height:10%;
+    }
+    .con4 {
+        color:lightgray;
+        width:46%;
+        height:12%;
+    }
+}
+
+@media (max-width: 320px) {
+    .container_orange {
+    .con1 .con2 .con3 .con4 {
+    border:1px solid white;
+        margin:1%;
+        float:left;
+    }
+    .con1 {
+    color:orangered;
+        width:96%;
+        height:5%
+    }
+    .con2 {
+    color:greenyellow;
+        width:96%;
+        height:10%
+    }
+    .con3 {
+    color:blue;
+        width:96%;
+        height:20%;
+    }
+    .con4 {
+    color:lightgray;
+        width:46%;
+        height:10%;
+    }
+}
+
+git add -A
+git status
+git commit -m "note"
+git push
