@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c713071-afee-456c-9eb5-4ffd0b9a251d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice4/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Practice 4/p4.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practice 4/css/p4.css" afterPath="$PROJECT_DIR$/practice4/css/p4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice5/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice5/css/p5.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webapp.iws" />
@@ -78,10 +77,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p4.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="p4.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice4/css/p4.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="111" column="20" selection-start="1840" selection-end="1840" vertical-scroll-proportion="0.28035983" vertical-offset="1478" max-vertical-offset="2145">
+            <state line="106" column="0" selection-start="1744" selection-end="1744" vertical-scroll-proportion="0.0" vertical-offset="1478" max-vertical-offset="2145">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice5/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="0" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.8095238" vertical-offset="75" max-vertical-offset="720">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p5.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice5/css/p5.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="16" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -122,13 +139,16 @@
         <option value="$PROJECT_DIR$/Practice 4/css/p4.css" />
         <option value="$PROJECT_DIR$/practice4/index.html" />
         <option value="$PROJECT_DIR$/practice4/css/p4.css" />
+        <option value="$PROJECT_DIR$/practice5/p5.html" />
+        <option value="$PROJECT_DIR$/practice5/css/p5.css" />
+        <option value="$PROJECT_DIR$/practice5/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
-    <option name="y" value="22" />
-    <option name="width" value="1218" />
+    <option name="x" value="474" />
+    <option name="y" value="146" />
+    <option name="width" value="964" />
     <option name="height" value="764" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -174,6 +194,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -339,11 +391,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/practice5/css" />
       <recent name="$PROJECT_DIR$/practice3" />
       <recent name="$PROJECT_DIR$/practice2" />
       <recent name="$PROJECT_DIR$/practice1" />
       <recent name="$PROJECT_DIR$/practice2/css" />
-      <recent name="$PROJECT_DIR$/practice1/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -572,15 +624,15 @@
       <updated>1440572699158</updated>
       <workItem from="1440572702219" duration="617000" />
       <workItem from="1440573387285" duration="41753000" />
-      <workItem from="1441262646915" duration="12169000" />
+      <workItem from="1441262646915" duration="16947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54539000" />
+    <option name="totallyTimeSpent" value="59317000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="22" width="1218" height="764" extended-state="0" />
+    <frame x="474" y="146" width="964" height="764" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -601,7 +653,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28407225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35892117" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -733,6 +785,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practice4/css/p4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="0" selection-start="1744" selection-end="1744" vertical-scroll-proportion="0.0" vertical-offset="1478" max-vertical-offset="2145">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice4/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="32" selection-start="544" selection-end="544" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="525">
@@ -740,9 +799,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice4/css/p4.css">
+    <entry file="file://$PROJECT_DIR$/practice5/css/p5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="20" selection-start="1840" selection-end="1840" vertical-scroll-proportion="0.28035983" vertical-offset="1478" max-vertical-offset="2145">
+        <state line="8" column="16" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="0" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.8095238" vertical-offset="75" max-vertical-offset="720">
           <folding />
         </state>
       </provider>

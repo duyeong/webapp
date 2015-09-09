@@ -1,0 +1,21 @@
+.color{
+    margin:0px;
+    padding:15px;
+}
+legend.tt {
+    background-color:deepskyblue;
+    color:white;
+    border:1px solid black;
+    padding:5px;
+}
+
+fieldset.box {
+    background-color:lightskyblue;
+    border:1px solid lightblue;
+    border-radius:5px;
+}
+
+label {
+     width:100px;
+     float:left;
+}
