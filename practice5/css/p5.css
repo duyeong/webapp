@@ -19,3 +19,7 @@ label {
      width:100px;
      float:left;
 }
+
+.button-group {
+  text-align: right;
+}
