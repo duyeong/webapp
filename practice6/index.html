@@ -1,9 +1,53 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Form2</title>
+    <link rel="stylesheet" href="css/p6.css">
 </head>
 <body>
+<div id="main">
+    <div>
+        <form>
+            <label for="urgency">Urgency</label>
+            <select id="urgency">
+                <option selected>Not Urgent</option>
+                <option>Urgent</option>
+                <option>Not Applicable</option>
+                <option>Ignore</option>
+            </select>
+        </form>
+    </div>
 
+    <div>
+        <form>
+            <input type="checkbox">Spell Checker?
+        </form>
+    </div>
+
+    <div>
+       <form>
+           <fieldset class="box">
+               <legend>Color Theme</legend>
+               <input type="radio" name="color" value="red" checked>Red
+               <input type="radio" name="color" value="White">White
+               <input type="radio" name="color" value="blue">Blue
+           </fieldset>
+       </form>
+    </div>
+
+    <div>
+        <form>
+            <label for="special instructions">Special Instructions</label><br>
+            <input type="text" id="special instructions">
+        </form>
+    </div>
+
+    <div>
+        <form>
+            <input type="Submit">
+            <input type="button" onclick="alert('Click me!')" value="Reset"
+        </form>
+    </div>
+</div>
 </body>
 </html>

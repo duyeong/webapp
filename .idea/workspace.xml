@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c713071-afee-456c-9eb5-4ffd0b9a251d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice5/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practice5/css/p5.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice6/index.html" afterPath="$PROJECT_DIR$/practice6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice7/index.html" afterPath="$PROJECT_DIR$/practice7/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice8table/index.html" afterPath="$PROJECT_DIR$/practice8table/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice6/css/p6.css" afterPath="$PROJECT_DIR$/practice6/css/p6.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice7/css/p7.css" afterPath="$PROJECT_DIR$/practice7/css/p7.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice8table/css/p8.css" afterPath="$PROJECT_DIR$/practice8table/css/p8.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webapp.iws" />
@@ -69,28 +73,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice4/index.html">
+        <entry file="file://$PROJECT_DIR$/practice6/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="32" selection-start="544" selection-end="544" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="525">
+            <state line="44" column="8" selection-start="1130" selection-end="1130" vertical-scroll-proportion="-18.041666" vertical-offset="227" max-vertical-offset="870">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p4.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice4/css/p4.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="106" column="0" selection-start="1744" selection-end="1744" vertical-scroll-proportion="0.0" vertical-offset="1478" max-vertical-offset="2145">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice5/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="0" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.8095238" vertical-offset="75" max-vertical-offset="720">
-              <folding />
+            <state line="9" column="26" selection-start="171" selection-end="171" vertical-scroll-proportion="-1.7916666" vertical-offset="92" max-vertical-offset="735">
+              <folding>
+                <element signature="n#style#0;n#input#8;n#fieldset#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,7 +95,54 @@
       <file leaf-file-name="p5.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice5/css/p5.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="16" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+            <state line="12" column="16" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p6.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice6/css/p6.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="15" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice7/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="26" selection-start="2820" selection-end="2820" vertical-scroll-proportion="-51.0" vertical-offset="0" max-vertical-offset="1819">
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p7.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice7/css/p7.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="1" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice8table/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="26" selection-start="1176" selection-end="1176" vertical-scroll-proportion="-12.041667" vertical-offset="356" max-vertical-offset="975">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p8.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice8table/css/p8.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="1" selection-start="646" selection-end="646" vertical-scroll-proportion="0.16018662" vertical-offset="692" max-vertical-offset="1335">
               <folding />
             </state>
           </provider>
@@ -142,14 +186,21 @@
         <option value="$PROJECT_DIR$/practice5/p5.html" />
         <option value="$PROJECT_DIR$/practice5/css/p5.css" />
         <option value="$PROJECT_DIR$/practice5/index.html" />
+        <option value="$PROJECT_DIR$/practice6/index.html" />
+        <option value="$PROJECT_DIR$/practice6/css/p6.css" />
+        <option value="$PROJECT_DIR$/practice7/p7.html" />
+        <option value="$PROJECT_DIR$/practice7/index.html" />
+        <option value="$PROJECT_DIR$/practice7/css/p7.css" />
+        <option value="$PROJECT_DIR$/practice8table/index.html" />
+        <option value="$PROJECT_DIR$/practice8table/css/p8.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="474" />
-    <option name="y" value="146" />
-    <option name="width" value="964" />
-    <option name="height" value="764" />
+    <option name="x" value="327" />
+    <option name="y" value="70" />
+    <option name="width" value="1086" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -194,6 +245,102 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice8table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice8table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -388,6 +535,7 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="recentsLimit" value="5" />
     <property name="SearchEverywhereHistory" value="" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -624,15 +772,15 @@
       <updated>1440572699158</updated>
       <workItem from="1440572702219" duration="617000" />
       <workItem from="1440573387285" duration="41753000" />
-      <workItem from="1441262646915" duration="16947000" />
+      <workItem from="1441262646915" duration="33894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59317000" />
+    <option name="totallyTimeSpent" value="76264000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="474" y="146" width="964" height="764" extended-state="0" />
+    <frame x="327" y="70" width="1086" height="740" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -653,7 +801,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35892117" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17771639" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -799,16 +947,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice5/css/p5.css">
+    <entry file="file://$PROJECT_DIR$/practice6/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="16" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+        <state line="44" column="8" selection-start="1130" selection-end="1130" vertical-scroll-proportion="-18.041666" vertical-offset="227" max-vertical-offset="870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice6/css/p6.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="15" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="667">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice5/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.8095238" vertical-offset="75" max-vertical-offset="720">
+        <state line="9" column="26" selection-start="171" selection-end="171" vertical-scroll-proportion="-1.7916666" vertical-offset="92" max-vertical-offset="735">
+          <folding>
+            <element signature="n#style#0;n#input#8;n#fieldset#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice5/css/p5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="16" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="26" selection-start="2820" selection-end="2820" vertical-scroll-proportion="-51.0" vertical-offset="0" max-vertical-offset="1819">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice7/css/p7.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="1" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice8table/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="26" selection-start="1176" selection-end="1176" vertical-scroll-proportion="-12.041667" vertical-offset="356" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice8table/css/p8.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="1" selection-start="646" selection-end="646" vertical-scroll-proportion="0.16018662" vertical-offset="692" max-vertical-offset="1335">
           <folding />
         </state>
       </provider>
