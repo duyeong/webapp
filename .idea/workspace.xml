@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c713071-afee-456c-9eb5-4ffd0b9a251d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice6/index.html" afterPath="$PROJECT_DIR$/practice6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice7/index.html" afterPath="$PROJECT_DIR$/practice7/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice8table/index.html" afterPath="$PROJECT_DIR$/practice8table/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice6/css/p6.css" afterPath="$PROJECT_DIR$/practice6/css/p6.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice7/css/p7.css" afterPath="$PROJECT_DIR$/practice7/css/p7.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice8table/css/p8.css" afterPath="$PROJECT_DIR$/practice8table/css/p8.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -133,7 +127,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice8table/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="26" selection-start="1176" selection-end="1176" vertical-scroll-proportion="-12.041667" vertical-offset="356" max-vertical-offset="975">
+            <state line="52" column="33" selection-start="1445" selection-end="1445" vertical-scroll-proportion="-17.666666" vertical-offset="356" max-vertical-offset="975">
               <folding />
             </state>
           </provider>
@@ -142,7 +136,7 @@
       <file leaf-file-name="p8.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practice8table/css/p8.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="1" selection-start="646" selection-end="646" vertical-scroll-proportion="0.16018662" vertical-offset="692" max-vertical-offset="1335">
+            <state line="72" column="17" selection-start="811" selection-end="811" vertical-scroll-proportion="0.60342145" vertical-offset="692" max-vertical-offset="1335">
               <folding />
             </state>
           </provider>
@@ -772,12 +766,12 @@
       <updated>1440572699158</updated>
       <workItem from="1440572702219" duration="617000" />
       <workItem from="1440573387285" duration="41753000" />
-      <workItem from="1441262646915" duration="33894000" />
+      <workItem from="1441262646915" duration="34138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76264000" />
+    <option name="totallyTimeSpent" value="76508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="327" y="70" width="1086" height="740" extended-state="0" />
@@ -995,14 +989,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practice8table/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="26" selection-start="1176" selection-end="1176" vertical-scroll-proportion="-12.041667" vertical-offset="356" max-vertical-offset="975">
+        <state line="52" column="33" selection-start="1445" selection-end="1445" vertical-scroll-proportion="-17.666666" vertical-offset="356" max-vertical-offset="975">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice8table/css/p8.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="1" selection-start="646" selection-end="646" vertical-scroll-proportion="0.16018662" vertical-offset="692" max-vertical-offset="1335">
+        <state line="72" column="17" selection-start="811" selection-end="811" vertical-scroll-proportion="0.60342145" vertical-offset="692" max-vertical-offset="1335">
           <folding />
         </state>
       </provider>
