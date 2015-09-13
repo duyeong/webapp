@@ -1,0 +1,11 @@
+table, tr, td {
+    background-color:white;
+}
+
+#red, table, tr, td:hover {
+    background-color:red;
+}
+
+table, tr, td:hover {
+
+}
