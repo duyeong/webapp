@@ -1,0 +1,63 @@
+div.main {
+    background-color:#8afca3;
+    width:100%;
+    border:1px solid black;
+    display:inline-block;
+}
+
+
+.one {
+    background-color:#8afca3;
+    width:100%;
+    border:1px solid darkgreen;
+    height:70px;
+    float:left;
+}
+
+.two {
+    background-color:#8afca3;
+    width:100%;
+    border:1px solid darkgreen;
+    display:inline;
+    height:70px;
+}
+
+.three {
+    background-color:#8afca3;
+    width:100%;
+    border:1px solid darkgreen;
+    display:inline;
+}
+.ones {
+    width:23%;
+    height:70px;
+    border:1px solid darkgreen;
+}
+
+.twos {
+    width:23%;
+}
+.twoss {
+    widht:73%;
+}
+.four {
+    width:200px;
+    height:60px:
+    border:1px solid darkgreen
+    padding:3 500px 10 500px;
+    background: #8afca3;
+}
+
+table,{
+    width:100%;
+    border:1px solid darkgreen;
+    border-collapse:collapse;
+}
+
+
+
+.bcolor {
+    background-color:darkgreen;
+    border-top:0;
+    border:1px solid black;
+}

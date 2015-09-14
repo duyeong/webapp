@@ -12,7 +12,19 @@ table, tr, td {
     background-color:white;
 }
 
-table, tr, td:hover {
+tr:hover td:nth-child(1) {
     background-color:red;
+}
+
+tr:hover td:nth-child(2) {
+    background-color:orange;
+}
+
+tr:hover td:nth-child(3) {
+    background-color:yellow;
+}
+
+tr:hover td:nth-child(4) {
+    background-color:blue;
 }
 
