@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c713071-afee-456c-9eb5-4ffd0b9a251d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practicehtmlcss/practice11/css/p11.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/practicehtmlcss/practice11/p11.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicehtmlcss/practice10/p100/css/p10.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicehtmlcss/practice10/p100/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/practicehtmlcss/practice10/p101/css/p101.css" afterPath="$PROJECT_DIR$/practicehtmlcss/practice10/css/p10.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/practicehtmlcss/practice10/p101/index.html" afterPath="$PROJECT_DIR$/practicehtmlcss/practice10/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practicehtmlcss/practice11/css/p11.css" afterPath="$PROJECT_DIR$/practicehtmlcss/practice11/css/p11.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practicehtmlcss/practice11/p11.html" afterPath="$PROJECT_DIR$/practicehtmlcss/practice11/p11.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practicehtmlcss/practice5/css/p5.css" afterPath="$PROJECT_DIR$/practicehtmlcss/practice5/css/p5.css" />
     </list>
     <ignored path="webapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,19 +68,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="p11.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="p11.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice11/p11.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="31" selection-start="2549" selection-end="2549" vertical-scroll-proportion="1.7027464" vertical-offset="386" max-vertical-offset="1635">
+            <state line="72" column="20" selection-start="1862" selection-end="1862" vertical-scroll-proportion="-2.6666667" vertical-offset="1016" max-vertical-offset="1635">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p11.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="p11.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice11/css/p11.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="28" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+            <state line="46" column="21" selection-start="588" selection-end="588" vertical-scroll-proportion="0.44323483" vertical-offset="405" max-vertical-offset="1305">
               <folding />
             </state>
           </provider>
@@ -145,6 +141,7 @@
         <option value="$PROJECT_DIR$/practicehtmlcss/practice10/p101/css/p101.css" />
         <option value="$PROJECT_DIR$/practicehtmlcss/practice10/p101/index.html" />
         <option value="$PROJECT_DIR$/practicehtmlcss/practice10/index.html" />
+        <option value="$PROJECT_DIR$/practicehtmlcss/practice5/css/p5.css" />
         <option value="$PROJECT_DIR$/practicehtmlcss/practice11/p11.html" />
         <option value="$PROJECT_DIR$/practicehtmlcss/practice11/css/p11.css" />
       </list>
@@ -253,6 +250,140 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="practicehtmlcss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practicehtmlcss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice9" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practicehtmlcss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice8table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practicehtmlcss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practicehtmlcss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practicehtmlcss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practicehtmlcss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practicehtmlcss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -538,12 +669,12 @@
       <updated>1440572699158</updated>
       <workItem from="1440572702219" duration="617000" />
       <workItem from="1440573387285" duration="41753000" />
-      <workItem from="1441262646915" duration="53582000" />
+      <workItem from="1441262646915" duration="58013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95952000" />
+    <option name="totallyTimeSpent" value="100383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="697" y="22" width="809" height="740" extended-state="0" />
@@ -568,7 +699,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24103832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24103832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -705,13 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice8table/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="342" selection-end="342" vertical-scroll-proportion="0.33925685" vertical-offset="0" max-vertical-offset="975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice8table/css/p8.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1335">
@@ -733,13 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice9/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="17" selection-start="426" selection-end="426" vertical-scroll-proportion="0.726979" vertical-offset="0" max-vertical-offset="660">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice10/css/p10.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="199" selection-end="199" vertical-scroll-proportion="0.34992224" vertical-offset="0" max-vertical-offset="643">
@@ -747,16 +864,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice11/css/p11.css">
+    <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice8table/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="28" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+        <state line="14" column="26" selection-start="342" selection-end="342" vertical-scroll-proportion="-0.2358643" vertical-offset="356" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="17" selection-start="426" selection-end="426" vertical-scroll-proportion="-17.041666" vertical-offset="41" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice7/css/p7.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.02643857" vertical-offset="17" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.2970297" vertical-offset="180" max-vertical-offset="1605">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.21287128" vertical-offset="129" max-vertical-offset="735">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice5/css/p5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="349" selection-end="349" vertical-scroll-proportion="0.60653186" vertical-offset="0" max-vertical-offset="643">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice11/p11.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="31" selection-start="2549" selection-end="2549" vertical-scroll-proportion="1.7027464" vertical-offset="386" max-vertical-offset="1635">
+        <state line="72" column="20" selection-start="1862" selection-end="1862" vertical-scroll-proportion="-2.6666667" vertical-offset="1016" max-vertical-offset="1635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practicehtmlcss/practice11/css/p11.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="21" selection-start="588" selection-end="588" vertical-scroll-proportion="0.44323483" vertical-offset="405" max-vertical-offset="1305">
           <folding />
         </state>
       </provider>
