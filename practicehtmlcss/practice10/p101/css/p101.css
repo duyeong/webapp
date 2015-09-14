@@ -1,0 +1,25 @@
+#main {
+    background-color: #8afca3;
+}
+
+table {
+    border:1px solid black;
+    width:100%;
+}
+
+table tr:nth-child(4) {
+    background-color:green;
+    border:0;
+}
+
+table tr td {
+    border:1px solid #8afca3;
+}
+
+.bu {
+    padding:2px 100px;
+ }
+
+.color {
+    backgroud-color:green;
+}
