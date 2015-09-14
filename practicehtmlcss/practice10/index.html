@@ -1,93 +1,70 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>practice10</title>
+    <title>tablepractice10-2</title>
     <link rel="stylesheet" href="css/p10.css">
 </head>
 <body>
-<div class="main">
-    <div class="one">
-        <div class="ones">
-            <p><b>SO Number:<b><p>
-        </div>
-        <div class="ones">
-            <input type="text" name="sonumber" size="30px">
-        </div>
-        <div class="ones">
-            <p><b></b></p>Salesperson:</b></p>
-        </div>
-        <div class="ones">
-            <select>
-                <option></option>
-                <option>James Henson</option>
-                <option>Mary Jones</option>
-                <option>Sarah Corner</option>
-                <option>Henry Hans</option>
-                <option>Jokum Kim</option>
-            </select>
-        </div>
-    </div>
-    <div class="two">
-        <div class="twos">
-            <p><b>Trucker:</b></p>
-        </div>
-        <div class="twoss">
-            <input type="text" name="trucker" size="100px">
-        </div>
-    </div>
-    <div class="three">
+<div id="main">
+    <div>
         <table>
             <tr>
-                <th>New PO<br> Required:</th>
-                <th>
-                    <select>
-                        <option></option>
-                        <option>Yes</option>
-                        <option>No</option>
-                    </select>
-                </th>
-                <th>Ship Date<br>Confirmed:</th>
-                <th>
-                    <select>
-                        <option></option>
-                        <option>Yes</option>
-                        <option>No</option>
-                    </select>
-                </th>
-                <th>
-                    Acctg Engry<br>Done:
-                </th>
-                <th>
-                    <select>
-                        <option></option>
-                        <option>Yes</option>
-                        <option>No</option>
-                    </select>
-                </th>
-                <th>
-                    Factored:
-                </th>
-                <th>
-                    <select>
-                        <option></option>
-                        <option>Yes</option>
-                        <option>No</option>
-                    </select>
-                </th>
+                <td colspan="2"><b>SO Number:</b></td>
+                <td colspan="2"><input type="text"></td>
+                <td colspan="2"><b>Salesperson:</b></td>
+                <td colspan="2"><select>
+                    <option></option>
+                    <option>James Henson</option>
+                    <option>Mary Jones</option>
+                    <option>Sarah Corner</option>
+                    <option>Henry Hans</option>
+                    <option>Jokum Kim</option>
+                </select></td>
             </tr>
             <tr>
-                <th>Line Items<br>#</th>
-                <th>Product</th>
-                <th>Qty</th>
-                <th>Unit<br>Price</th>
-                <th>Allocation<br>Instructions</th>
-                <th>Label<br>Instructions</th>
-                <th>Description</th>
-                <th>Override<br>Reason</th>
+                <td colspan="2"><b>Trucker:</b></td>
+                <td colspan="6"><input type="text" size="80px"</td>
+            </tr>
+            <tr>
+                <td><b>New PO<br>Required:</b></td>
+                <td><select>
+                    <option></option>
+                    <option>Yes</option>
+                    <option>No</option>
+                </select></td>
+                <td><b>Ship Date Confirmed:</b></td>
+                <td><select>
+                    <option></option>
+                    <option>Yes</option>
+                    <option>No</option>
+                </select></td>
+                <td><b>Acctg Entry<br>Done:</b></td>
+                <td><select>
+                    <option></option>
+                    <option>Yes</option>
+                    <option>No</option>
+                </select></td>
+                <td><b>Factored:</b></td>
+                <td><select>
+                    <option></option>
+                    <option>Yes</option>
+                    <option>No</option>
+                </select></td>
+            </tr>
+            <tr>
+                <td><b>Line Items<br>#</b></td>
+                <td><b>Product</b></td>
+                <td><b>Qty</b></td>
+                <td><b>Unit<br>Price</b></td>
+                <td><b>Allocation<br>Instructions</b></td>
+                <td><b>Label<br>Instructions</b></td>
+                <td><b>Description</b></td>
+                <td><b>Override<br>Reason</b></td>
             </tr>
             <tr>
                 <td>0</td>
                 <td><select>
+                    <option></option>
                     <option>0</option>
                     <option>1</option>
                     <option>2</option>
@@ -110,6 +87,7 @@
             <tr>
                 <td>1</td>
                 <td><select>
+                    <option></option>
                     <option>0</option>
                     <option>1</option>
                     <option>2</option>
@@ -132,6 +110,7 @@
             <tr>
                 <td>2</td>
                 <td><select>
+                    <option></option>
                     <option>0</option>
                     <option>1</option>
                     <option>2</option>
@@ -154,6 +133,7 @@
             <tr>
                 <td>3</td>
                 <td><select>
+                    <option></option>
                     <option>0</option>
                     <option>1</option>
                     <option>2</option>
@@ -176,6 +156,7 @@
             <tr>
                 <td>4</td>
                 <td><select>
+                    <option></option>
                     <option>0</option>
                     <option>1</option>
                     <option>2</option>
@@ -198,6 +179,7 @@
             <tr>
                 <td>5</td>
                 <td><select>
+                    <option></option>
                     <option>0</option>
                     <option>1</option>
                     <option>2</option>
@@ -219,10 +201,13 @@
             </tr>
         </table>
     </div>
-    <div class="four">
-        <button class="bu">Create Sales Order</button>
+
+    <div class="bu">
+        <button>Create Sales Order</button>
     </div>
-    <div class="bcolor"></div>
+
+    <div class="color"></div>
 </div>
+
 </body>
 </html>
